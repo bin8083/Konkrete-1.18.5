@@ -1,7 +1,6 @@
+# About
 
-# Features
+Konkrete is a library mod used as base for my other mods.
+This mod does nothing on its own and its only purpose is to be the base of other mods.
 
-    Performance. Oculus should fully utilize your graphics card when paired with optimization mods like Rubidium.
-    Mod compatibility. Oculus should make a best effort to be compatible with modded environments.
-    Backwards compatibility. All existing ShadersMod / OptiFine shader packs should just work on Iris, without any modifications required.
-    A well-organized codebase. I'd like for working with Iris code to be a pleasant experience overall.
+Technically, you are free to use this mod as base mod for your own mods, but there's currently no documentation for it, so it would probably be a very annoying experience.
